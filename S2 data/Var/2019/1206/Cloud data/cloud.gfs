@@ -1,0 +1,22 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>MaskFeature</Name>
+    <ElementPath>MaskFeature</ElementPath>
+    <!--POLYGON-->
+    <GeometryType>3</GeometryType>
+    <SRSName>urn:ogc:def:crs:EPSG:8.7:32631</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>32</FeatureCount>
+      <ExtentXMin>719040.00000</ExtentXMin>
+      <ExtentXMax>809760.00000</ExtentXMax>
+      <ExtentYMin>4790220.00000</ExtentYMin>
+      <ExtentYMax>4883640.00000</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>maskType</Name>
+      <ElementPath>maskType</ElementPath>
+      <Type>String</Type>
+      <Width>6</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>
